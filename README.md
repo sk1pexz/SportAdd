@@ -19,7 +19,7 @@
 
 ## Структура базы данных
 
-![Диаграмма базы данных](./docs/diagrams/database_diagram.png)
+![Диаграмма базы данных](./docs/diagrams/database_diagramm.png)
 
 ### Таблицы:
 
